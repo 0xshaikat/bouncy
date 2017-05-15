@@ -39,7 +39,7 @@ class Ball {
     x = random(width); //0, 600
     y = random(height);
     size = 25;
-    col = color(int(random(255)), int(random(255)), int(random(255)), 100);
+    col = color(int(random(255)), int(random(255)), int(random(255)), 150);
   }
 
 //overloaded
